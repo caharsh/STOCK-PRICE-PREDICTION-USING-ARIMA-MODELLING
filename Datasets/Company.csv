@@ -1,0 +1,6 @@
+CompanyID,CompanyName,StockSymbol,MarketCap,IPODate,IPOSharePrice,IPOMoneyRaised,IPOValuation
+1,Apple Inc.,AAPL,2.944T,1980-12-12,$22.00,$101.2M,$1.2B
+2,Amazon.com Inc.,AMZN,1.747T,1997-05-15,$16.00,$54M,$438M
+3,Meta Platforms Inc.,FB,917.285B,2012-05-18,$38.00,$18.4B,$104B
+4,Alphabet Inc.,GOOG,1.969T,2004-08-19,$85.00,$85.00,$23.1B
+5,Netflix Inc.,NFLX,270.936B,2002-05-23,$15.00,$82.1M,$309.7M
